@@ -1,3 +1,8 @@
+<div align="center">
+
+# 🧠 Yadhu.exe has started...
+## Welcome to My Terminal-Themed README 😎
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=I+write+code+that+works+(sometimes);I+debug+like+Sherlock+Holmes;Currently+learning:+Next.js+%7C+Three.js;Life+is+short+%3D+console.log(it))
 
